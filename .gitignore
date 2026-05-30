@@ -1,0 +1,4 @@
+node_modules/
+.env
+todo-app/node_modules/
+todo-server/node_modules/
